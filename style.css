@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+/* h1{
+    color: white;
+    text-align: center;
+    font-family: L;
+} */
+#system{
+    font-family: "Libre Baskerville", serif;
+    /* font-weight: 40; */
+    font-style: normal;    
+    width: 50%;
+    color: white;
+    text-align: center;
+    /* font-size: 100px ; */
+    margin-top: 75px;
+    margin-left: 25%;
+}
+#game{
+    /* color: white; */
+    text-align: center;
+    width: 700px;
+    height: 450px;
+    border : 5px solid white;
+}
